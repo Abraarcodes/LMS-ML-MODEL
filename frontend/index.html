@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz: Fabric Basics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Quiz: Fabric Basics</h1>
+    <form id="quizForm">
+        <!-- Dynamically load questions and answers here -->
+        <div id="quizQuestions"></div>
+        <button type="submit">Submit Quiz</button>
+    </form>
+
+    <div id="result"></div>
+
+    <!-- <script>
+        // Sample dataset for the quiz
+        const quizData = [
+            {
+                "question": "Which natural fiber is known for its ability to retain warmth and is commonly used in winter garments?",
+                "options": ["Cotton", "Wool", "Silk", "Linen"],
+                "correct_answer": "Wool"
+            },
+            {
+                "question": "What property makes wool suitable for insulation in cold weather?",
+                "options": [
+                    "Its smooth texture keeps cold out.",
+                    "Its natural crimp traps air, providing warmth.",
+                    "It repels water.",
+                    "It is lightweight."
+                ],
+                "correct_answer": "Its natural crimp traps air, providing warmth."
+            },
+            {
+                "question": "Which natural fiber is susceptible to moth damage and requires careful storage?",
+                "options": ["Wool", "Cotton", "Silk", "Linen"],
+                "correct_answer": "Wool"
+            }
+        ];
+
+        // Function to render quiz questions and options dynamically
+        function loadQuiz() {
+            const quizQuestionsContainer = document.getElementById("quizQuestions");
+            quizData.forEach((questionData, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.classList.add("question");
+
+                const questionText = document.createElement("h3");
+                questionText.textContent = questionData.question;
+                questionDiv.appendChild(questionText);
+
+                questionData.options.forEach(option => {
+                    const label = document.createElement("label");
+                    const input = document.createElement("input");
+                    input.type = "radio";
+                    input.name = `question${index}`; // Grouping by question index
+                    input.value = option;
+                    label.appendChild(input);
+                    label.appendChild(document.createTextNode(option));
+                    questionDiv.appendChild(label);
+                    questionDiv.appendChild(document.createElement("br"));
+                });
+
+                quizQuestionsContainer.appendChild(questionDiv);
+            });
+        }
+
+        // Function to handle form submission and send data to backend
+        async function handleSubmit(event) {
+            event.preventDefault();
+
+            // Collect user answers from the form
+            const userAnswers = [];
+            quizData.forEach((questionData, index) => {
+                const selectedOption = document.querySelector(`input[name="question${index}"]:checked`);
+                if (selectedOption) {
+                    userAnswers.push({
+                        question: questionData.question,
+                        user_answer: selectedOption.value
+                    });
+                }
+            });
+
+            // Send the data to the backend
+            try {
+                const response = await fetch('http://127.0.0.1:5000/submit_quiz', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(userAnswers)
+                });
+                const result = await response.json();
+
+                // Display the result from the backend
+                const resultDiv = document.getElementById("result");
+                if (result.result === "Congratulations! All answers are correct.") {
+                    resultDiv.innerHTML = `<p>${result.result}</p>`;
+                } else {
+                    let feedbackHtml = `<p>${result.result}</p>`;
+                    result.feedback.forEach(feedback => {
+                        feedbackHtml += `
+                            <div>
+                                <p><strong>Question:</strong> ${feedback.question}</p>
+                                <p><strong>Your Answer:</strong> ${feedback.user_answer.user_answer}</p>
+                                <p><strong>Correct Answer:</strong> ${feedback.correct_answer}</p>
+                                <p><strong>Course:</strong> ${feedback.course}</p>
+                                <p><strong>Module:</strong> ${feedback.module}</p>
+                                <p><strong>Submodule:</strong> ${feedback.submodule}</p>
+                            </div>
+                        `;
+                    });
+                    resultDiv.innerHTML = feedbackHtml;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        // Event listener for form submission
+        document.getElementById("quizForm").addEventListener("submit", handleSubmit);
+
+        // Load the quiz when the page loads
+        window.onload = loadQuiz;
+    </script> -->
+    <script>
+        // Sample dataset for the quiz
+        const quizData = [
+            {
+                "question": "Which natural fiber is known for its ability to retain warmth and is commonly used in winter garments?",
+                "options": ["Cotton", "Wool", "Silk", "Linen"],
+                "correct_answer": "Wool"
+            },
+            {
+                "question": "What property makes wool suitable for insulation in cold weather?",
+                "options": [
+                    "Its smooth texture keeps cold out.",
+                    "Its natural crimp traps air, providing warmth.",
+                    "It repels water.",
+                    "It is lightweight."
+                ],
+                "correct_answer": "Its natural crimp traps air, providing warmth."
+            },
+            {
+                "question": "Which natural fiber is susceptible to moth damage and requires careful storage?",
+                "options": ["Wool", "Cotton", "Silk", "Linen"],
+                "correct_answer": "Wool"
+            }
+        ];
+
+        // Function to render quiz questions and options dynamically
+        function loadQuiz() {
+            const quizQuestionsContainer = document.getElementById("quizQuestions");
+            quizData.forEach((questionData, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.classList.add("question");
+
+                const questionText = document.createElement("h3");
+                questionText.textContent = questionData.question;
+                questionDiv.appendChild(questionText);
+
+                questionData.options.forEach(option => {
+                    const label = document.createElement("label");
+                    const input = document.createElement("input");
+                    input.type = "radio";
+                    input.name = `question${index}`; // Grouping by question index
+                    input.value = option;
+                    label.appendChild(input);
+                    label.appendChild(document.createTextNode(option));
+                    questionDiv.appendChild(label);
+                    questionDiv.appendChild(document.createElement("br"));
+                });
+
+                quizQuestionsContainer.appendChild(questionDiv);
+            });
+        }
+
+        // Function to handle form submission and send data to backend
+        async function handleSubmit(event) {
+            event.preventDefault();
+
+            // Collect user answers from the form
+            const userAnswers = [];
+            quizData.forEach((questionData, index) => {
+                const selectedOption = document.querySelector(`input[name="question${index}"]:checked`);
+                if (selectedOption) {
+                    userAnswers.push({
+                        question: questionData.question,
+                        user_answer: selectedOption.value
+                    });
+                }
+            });
+
+            // Send the data to the backend
+            try {
+                const response = await fetch('http://127.0.0.1:5000/submit_quiz', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(userAnswers)
+                });
+                const result = await response.json();
+
+                // Display the result from the backend
+                const resultDiv = document.getElementById("result");
+                if (result.result === "Congratulations! All answers are correct.") {
+                    resultDiv.innerHTML = `<p>${result.result}</p>`;
+                } else {
+                    let feedbackHtml = `<p>${result.result}</p>`;
+                    result.feedback.forEach(feedback => {
+                        // Only show feedback if the user's answer is wrong
+                        if (feedback.user_answer.user_answer !== feedback.correct_answer) {
+                            feedbackHtml += `
+                                <div>
+                                    <p><strong>Question:</strong> ${feedback.question}</p>
+                                    <p><strong>Your Answer:</strong> ${feedback.user_answer.user_answer}</p>
+                                    <p><strong>Correct Answer:</strong> ${feedback.correct_answer}</p>
+                                    <p><strong>Course:</strong> ${feedback.course}</p>
+                                    <p><strong>Module:</strong> ${feedback.module}</p>
+                                    <p><strong>Submodule:</strong> ${feedback.submodule}</p>
+                                </div>
+                            `;
+                        }
+                    });
+                    resultDiv.innerHTML = feedbackHtml;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        // Event listener for form submission
+        document.getElementById("quizForm").addEventListener("submit", handleSubmit);
+
+        // Load the quiz when the page loads
+        window.onload = loadQuiz;
+    </script>
+
+</body>
+
+</html>

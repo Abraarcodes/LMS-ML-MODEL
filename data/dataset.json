@@ -1,0 +1,843 @@
+[
+  {
+    "question": "Which natural fiber is known for its ability to retain warmth and is commonly used in winter garments?",
+    "answer": "Wool",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Wool"
+  },
+  {
+    "question": "What property makes wool suitable for insulation in cold weather?",
+    "answer": "Its natural crimp traps air, providing warmth.",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Wool"
+  },
+  {
+    "question": "Which natural fiber is susceptible to moth damage and requires careful storage?",
+    "answer": "Wool",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Wool"
+  },
+  {
+    "question": "Which natural fiber is breathable, soft, and widely used in everyday clothing like t-shirts?",
+    "answer": "Cotton",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Cotton"
+  },
+  {
+    "question": "Why is cotton a preferred fabric for summer wear?",
+    "answer": "It is breathable and absorbs moisture.",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Cotton"
+  },
+  {
+    "question": "Which natural fiber is prone to shrinking if not washed properly?",
+    "answer": "Cotton",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Cotton"
+  },
+  {
+    "question": "Which luxurious natural fiber is known for its smooth texture and is often used in evening gowns?",
+    "answer": "Silk",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Silk"
+  },
+  {
+    "question": "What is the primary source of silk fibers?",
+    "answer": "Silkworms",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Silk"
+  },
+  {
+    "question": "Which natural fiber has a natural sheen and is highly valued for its elegance?",
+    "answer": "Silk",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Silk"
+  },
+  {
+    "question": "Which natural fiber is known for its strength and is used in eco-friendly products like bags and ropes?",
+    "answer": "Hemp",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Hemp"
+  },
+  {
+    "question": "What is a key environmental advantage of hemp over other natural fibers?",
+    "answer": "It requires less water and no pesticides to grow.",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Hemp"
+  },
+  {
+    "question": "Which natural fiber has antibacterial properties, making it ideal for sustainable textiles?",
+    "answer": "Hemp",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Hemp"
+  },
+  {
+    "question": "Which rough-textured natural fiber is often used to make eco-friendly mats and rugs?",
+    "answer": "Jute",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Jute"
+  },
+  {
+    "question": "What makes jute a sustainable natural fiber option?",
+    "answer": "It is biodegradable and grows quickly.",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Jute"
+  },
+  {
+    "question": "Which natural fiber is often referred to as the 'golden fiber' due to its color and versatility?",
+    "answer": "Jute",
+    "course": "Fabric Basics",
+    "module": "Natural Fibers",
+    "submodule": "Jute"
+  },
+  {
+    "question": "Which synthetic fiber is known for its wrinkle resistance and is widely used in sportswear?",
+    "answer": "Polyester",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Polyester"
+  },
+  {
+    "question": "What makes polyester a popular choice for outdoor garments?",
+    "answer": "It is durable and resists moisture.",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Polyester"
+  },
+  {
+    "question": "Which synthetic fiber can be recycled to create eco-friendly textiles?",
+    "answer": "Polyester",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Polyester"
+  },
+  {
+    "question": "Which synthetic fiber is commonly used in hosiery and umbrellas for its strength and elasticity?",
+    "answer": "Nylon",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Nylon"
+  },
+  {
+    "question": "What property of nylon makes it ideal for making parachutes?",
+    "answer": "Its high tensile strength and lightweight nature.",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Nylon"
+  },
+  {
+    "question": "Which synthetic fiber is resistant to abrasion, making it ideal for industrial applications?",
+    "answer": "Nylon",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Nylon"
+  },
+  {
+    "question": "Which synthetic fiber mimics the look and feel of wool but is more durable and lightweight?",
+    "answer": "Acrylic",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Acrylic"
+  },
+  {
+    "question": "Why is acrylic often used as a substitute for wool in textiles?",
+    "answer": "It is cheaper, lighter, and resists moth damage.",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Acrylic"
+  },
+  {
+    "question": "Which synthetic fiber is commonly used in blankets and sweaters for its warmth and soft texture?",
+    "answer": "Acrylic",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Acrylic"
+  },
+  {
+    "question": "Which synthetic fiber is valued for its stretchability and is widely used in activewear and swimwear?",
+    "answer": "Spandex",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Spandex"
+  },
+  {
+    "question": "What makes spandex ideal for applications requiring elasticity?",
+    "answer": "It can stretch up to 5 times its original length.",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Spandex"
+  },
+  {
+    "question": "Which synthetic fiber is blended with other materials to improve flexibility in garments?",
+    "answer": "Spandex",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Spandex"
+  },
+  {
+    "question": "Which semi-synthetic fiber is made from regenerated cellulose and is known for its smooth texture?",
+    "answer": "Rayon",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Rayon"
+  },
+  {
+    "question": "What characteristic of rayon makes it similar to silk?",
+    "answer": "Its smooth texture and drapability.",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Rayon"
+  },
+  {
+    "question": "Which synthetic fiber is often used in linings and dresses for its luxurious feel?",
+    "answer": "Rayon",
+    "course": "Fabric Basics",
+    "module": "Synthetic Fibers",
+    "submodule": "Rayon"
+  },
+  {
+    "question": "What type of fabrics are designed to resist tearing under stress?",
+    "answer": "Fabrics with high tear resistance.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Tear Resistance"
+  },
+  {
+    "question": "Which test is commonly used to measure tear resistance in fabrics?",
+    "answer": "Tongue tear test.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Tear Resistance"
+  },
+  {
+    "question": "Why is tear resistance an important property for outdoor gear fabrics?",
+    "answer": "It ensures durability in harsh conditions.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Tear Resistance"
+  },
+  {
+    "question": "What is wear resistance in fabrics, and why is it important?",
+    "answer": "The ability of a fabric to withstand friction and maintain its integrity.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Wear Resistance"
+  },
+  {
+    "question": "Which type of fabric is ideal for high-wear applications like upholstery and workwear?",
+    "answer": "Fabrics with high wear resistance.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Wear Resistance"
+  },
+  {
+    "question": "What factors influence the wear resistance of a fabric?",
+    "answer": "Fiber type, weave structure, and finishing.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "Wear Resistance"
+  },
+  {
+    "question": "Which fabric property prevents degradation due to prolonged exposure to sunlight?",
+    "answer": "UV resistance.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "UV Resistance"
+  },
+  {
+    "question": "What type of coating can enhance the UV resistance of fabrics?",
+    "answer": "UV-blocking treatments or coatings.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "UV Resistance"
+  },
+  {
+    "question": "Which fabrics are naturally more resistant to UV radiation?",
+    "answer": "Tightly woven fabrics like polyester.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Durability",
+    "submodule": "UV Resistance"
+  },
+  {
+    "question": "Which fabrics are categorized as smooth textures due to their soft and shiny appearance?",
+    "answer": "Silk and satin.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Smooth Textures"
+  },
+  {
+    "question": "Why are smooth-textured fabrics like silk often used in formal wear?",
+    "answer": "They provide a luxurious and elegant appearance.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Smooth Textures"
+  },
+  {
+    "question": "Which finishing processes enhance the smoothness of fabrics?",
+    "answer": "Calendering and mercerization.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Smooth Textures"
+  },
+  {
+    "question": "What are coarse-textured fabrics, and where are they commonly used?",
+    "answer": "Fabrics like jute and canvas used in durable items like bags and rugs.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Coarse Textures"
+  },
+  {
+    "question": "Why are coarse-textured fabrics suitable for heavy-duty applications?",
+    "answer": "They are strong and resistant to wear.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Coarse Textures"
+  },
+  {
+    "question": "What is a key disadvantage of coarse-textured fabrics?",
+    "answer": "They lack comfort for close-to-skin applications.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Coarse Textures"
+  },
+  {
+    "question": "Which fabrics are categorized as soft textures and are known for their comfort?",
+    "answer": "Cashmere and fleece.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Soft Textures"
+  },
+  {
+    "question": "Why are soft-textured fabrics preferred for winter clothing?",
+    "answer": "They provide warmth and comfort.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Soft Textures"
+  },
+  {
+    "question": "What is a common use for soft-textured fabrics like fleece?",
+    "answer": "Blankets and loungewear.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Texture and Feel",
+    "submodule": "Soft Textures"
+  },
+  {
+    "question": "What defines a sustainable natural fiber?",
+    "answer": "Fibers grown with minimal environmental impact, like organic cotton or hemp.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Sustainable Natural Fibers"
+  },
+  {
+    "question": "Why are sustainable natural fibers preferred in eco-friendly fashion?",
+    "answer": "They reduce pollution and are biodegradable.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Sustainable Natural Fibers"
+  },
+  {
+    "question": "Which certification indicates a fabric is made from sustainable natural fibers?",
+    "answer": "Global Organic Textile Standard (GOTS).",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Sustainable Natural Fibers"
+  },
+  {
+    "question": "What are recycled synthetic fabrics made from?",
+    "answer": "Reprocessed materials like plastic bottles.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Recycled Synthetic Fabrics"
+  },
+  {
+    "question": "Which synthetic fabric is commonly recycled to create eco-friendly garments?",
+    "answer": "Polyester.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Recycled Synthetic Fabrics"
+  },
+  {
+    "question": "What is a significant advantage of recycled synthetic fabrics?",
+    "answer": "They reduce waste and conserve resources.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Recycled Synthetic Fabrics"
+  },
+  {
+    "question": "What is the main difference between organic and conventional cotton?",
+    "answer": "Organic cotton is grown without synthetic pesticides or fertilizers.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Organic vs Conventional Cotton"
+  },
+  {
+    "question": "Which type of cotton has a lower environmental impact, organic or conventional?",
+    "answer": "Organic cotton.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Organic vs Conventional Cotton"
+  },
+  {
+    "question": "Why is conventional cotton considered less sustainable than organic cotton?",
+    "answer": "It requires more water and uses synthetic chemicals.",
+    "course": "Advanced Fabric Properties",
+    "module": "Fabric Environmental Impact",
+    "submodule": "Organic vs Conventional Cotton"
+  },
+  {
+    "question": "What is the primary source of color for natural dyes?",
+    "answer": "Natural dyes are derived from plants, minerals, or insects.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Natural Dyes"
+  },
+  {
+    "question": "Which plant is commonly used to produce indigo dye?",
+    "answer": "The indigo plant (Indigofera tinctoria).",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Natural Dyes"
+  },
+  {
+    "question": "How do natural dyes differ from synthetic dyes in terms of environmental impact?",
+    "answer": "Natural dyes are typically more environmentally friendly, as they are biodegradable and derived from renewable resources.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Natural Dyes"
+  },
+  {
+    "question": "What are synthetic dyes primarily made from?",
+    "answer": "Synthetic dyes are made from chemical compounds, often derived from petroleum.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Synthetic Dyes"
+  },
+  {
+    "question": "Which dyeing process is known for producing vibrant and long-lasting colors?",
+    "answer": "Synthetic dyes typically produce more vibrant and longer-lasting colors than natural dyes.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Synthetic Dyes"
+  },
+  {
+    "question": "What is a significant disadvantage of synthetic dyes compared to natural dyes?",
+    "answer": "Synthetic dyes can be harmful to the environment and human health due to the use of toxic chemicals.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Synthetic Dyes"
+  },
+  {
+    "question": "What technique involves folding and tying fabric to create unique patterns?",
+    "answer": "Tie-and-dye techniques.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Tie-and-Dye Techniques"
+  },
+  {
+    "question": "Which type of fabric is most commonly used for tie-and-dye?",
+    "answer": "Cotton fabric is most commonly used for tie-and-dye techniques.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Tie-and-Dye Techniques"
+  },
+  {
+    "question": "What is the primary effect of tie-and-dye techniques on fabric?",
+    "answer": "It creates irregular, colorful patterns through the resist-dyeing process.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Dyeing Techniques",
+    "submodule": "Tie-and-Dye Techniques"
+  },
+  {
+    "question": "What is block printing?",
+    "answer": "Block printing involves using hand-carved blocks to stamp patterns onto fabric.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Block Printing"
+  },
+  {
+    "question": "Which printing technique is known for its use in traditional Indian textiles?",
+    "answer": "Block printing is widely used in traditional Indian textiles.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Block Printing"
+  },
+  {
+    "question": "What is one advantage of block printing?",
+    "answer": "Block printing allows for intricate, handcrafted designs on fabric.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Block Printing"
+  },
+  {
+    "question": "What is the primary difference between screen printing and block printing?",
+    "answer": "Screen printing uses a mesh screen to transfer ink, while block printing uses carved wooden blocks.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Screen Printing"
+  },
+  {
+    "question": "Which material is commonly used for making screens in screen printing?",
+    "answer": "Fine mesh fabric, often made of polyester or nylon.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Screen Printing"
+  },
+  {
+    "question": "What is a common use for screen printing?",
+    "answer": "It is commonly used for printing on t-shirts, posters, and other textiles.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Screen Printing"
+  },
+  {
+    "question": "What makes digital printing different from traditional printing techniques?",
+    "answer": "Digital printing uses computer-controlled technology to print designs directly onto fabric without the need for screens or blocks.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Digital Printing"
+  },
+  {
+    "question": "Which type of printing is ideal for small runs of customized designs?",
+    "answer": "Digital printing is ideal for small runs of custom designs.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Digital Printing"
+  },
+  {
+    "question": "What is a key advantage of digital printing over traditional methods?",
+    "answer": "Digital printing allows for greater design complexity and color variation without the need for physical screens or blocks.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Printing Techniques",
+    "submodule": "Digital Printing"
+  },
+  {
+    "question": "What are warm colors in color theory?",
+    "answer": "Warm colors include reds, oranges, and yellows, which are associated with warmth and energy.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Warm and Cool Colors"
+  },
+  {
+    "question": "Which warm color is often associated with passion and intensity?",
+    "answer": "Red.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Warm and Cool Colors"
+  },
+  {
+    "question": "How do warm colors affect the mood of a design?",
+    "answer": "Warm colors often create a sense of excitement, warmth, or stimulation.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Warm and Cool Colors"
+  },
+  {
+    "question": "What are monochrome color palettes?",
+    "answer": "Monochrome color palettes use variations of a single color, differing in hue, saturation, and lightness.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Monochrome Palettes"
+  },
+  {
+    "question": "What is the main characteristic of a monochrome color scheme?",
+    "answer": "It consists of one base color and its shades, tints, and tones.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Monochrome Palettes"
+  },
+  {
+    "question": "Why are monochrome color palettes often used in minimalist designs?",
+    "answer": "They create a harmonious and simple aesthetic.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Monochrome Palettes"
+  },
+  {
+    "question": "What are complementary color schemes in color theory?",
+    "answer": "Complementary color schemes use colors that are opposite each other on the color wheel, such as red and green.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Complementary Color Schemes"
+  },
+  {
+    "question": "Which pair of colors is an example of complementary colors?",
+    "answer": "Blue and orange.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Complementary Color Schemes"
+  },
+  {
+    "question": "How do complementary colors affect a design?",
+    "answer": "They create contrast and make each other appear more vibrant when placed next to each other.",
+    "course": "Textile Dyeing and Printing",
+    "module": "Color Theory",
+    "submodule": "Complementary Color Schemes"
+  },
+  {
+    "question": "What defines casual wear in fashion?",
+    "answer": "Casual wear is typically comfortable, informal clothing suited for everyday activities.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Casual Wear"
+  },
+  {
+    "question": "What are some common examples of casual wear?",
+    "answer": "T-shirts, jeans, shorts, and sneakers.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Casual Wear"
+  },
+  {
+    "question": "How does casual wear differ from formal wear?",
+    "answer": "Casual wear is informal and comfortable, while formal wear is more structured, often worn for events or professional settings.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Casual Wear"
+  },
+  {
+    "question": "What distinguishes formal wear from other types of clothing?",
+    "answer": "Formal wear is typically characterized by its structured fit and elegant appearance, often worn to formal events like weddings or galas.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Formal Wear"
+  },
+  {
+    "question": "What are some examples of formal wear for men?",
+    "answer": "Suits, tuxedos, dress shirts, and dress shoes.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Formal Wear"
+  },
+  {
+    "question": "Why is formal wear typically more expensive than casual wear?",
+    "answer": "Formal wear is often made from high-quality fabrics, tailored fits, and intricate details, contributing to its higher cost.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Formal Wear"
+  },
+  {
+    "question": "What type of clothing is suitable for athletic wear?",
+    "answer": "Athletic wear includes clothing designed for physical activities such as sports, running, or exercise.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Athletic Wear"
+  },
+  {
+    "question": "What fabrics are commonly used in athletic wear?",
+    "answer": "Stretch fabrics like Lycra, polyester, and spandex are commonly used in athletic wear for comfort and flexibility.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Athletic Wear"
+  },
+  {
+    "question": "How does athletic wear differ from casual wear?",
+    "answer": "Athletic wear is designed for performance and comfort during physical activities, while casual wear is more about comfort for everyday use.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Athletic Wear"
+  },
+  {
+    "question": "What is evening wear typically designed for?",
+    "answer": "Evening wear is designed for formal occasions that take place in the evening, such as galas, dinners, or theater outings.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Evening Wear"
+  },
+  {
+    "question": "What types of fabrics are typically used for evening wear?",
+    "answer": "Luxurious fabrics like silk, satin, velvet, and chiffon are often used for evening wear.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Evening Wear"
+  },
+  {
+    "question": "What makes evening wear different from formal wear?",
+    "answer": "Evening wear is specifically intended for evening events, and is usually more elaborate and ornate compared to daytime formal wear.",
+    "course": "Apparel Design Basics",
+    "module": "Clothing Categories",
+    "submodule": "Evening Wear"
+  },
+  {
+    "question": "What is the purpose of body measurements in garment design?",
+    "answer": "Body measurements are used to ensure that clothing fits well and is tailored to an individual's specific body shape.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Body Measurements"
+  },
+  {
+    "question": "What are the common body measurements taken for clothing fit?",
+    "answer": "Chest, waist, hip, inseam, and neck measurements are common for determining clothing size.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Body Measurements"
+  },
+  {
+    "question": "How do body measurements affect garment sizing?",
+    "answer": "Accurate body measurements are essential for ensuring that garments fit properly and are comfortable to wear.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Body Measurements"
+  },
+  {
+    "question": "What is pattern adjustment in clothing design?",
+    "answer": "Pattern adjustment involves altering a base pattern to better fit the body or accommodate design changes.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Pattern Adjustments"
+  },
+  {
+    "question": "Why might a designer need to make pattern adjustments?",
+    "answer": "Pattern adjustments are made to account for differences in body shape, personal preferences, or to add design features.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Pattern Adjustments"
+  },
+  {
+    "question": "What tools are commonly used for pattern adjustments?",
+    "answer": "Tools such as rulers, grading tools, scissors, and measuring tapes are commonly used for pattern adjustments.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Pattern Adjustments"
+  },
+  {
+    "question": "What occurs during a fitting session?",
+    "answer": "A fitting session involves trying on a garment to check the fit and make necessary adjustments before final production.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Fitting Sessions"
+  },
+  {
+    "question": "Why is a fitting session important in garment design?",
+    "answer": "A fitting session ensures that the garment fits the wearer properly and allows designers to make adjustments for comfort and style.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Fitting Sessions"
+  },
+  {
+    "question": "How many fitting sessions are typically required for a custom garment?",
+    "answer": "Typically, at least two fitting sessions are required: one for initial adjustments and another for final tweaks.",
+    "course": "Apparel Design Basics",
+    "module": "Garment Fit and Sizing",
+    "submodule": "Fitting Sessions"
+  },
+  {
+    "question": "What is the role of belts in fashion accessories?",
+    "answer": "Belts are used to cinch the waist, provide structure, and add a stylish accent to an outfit.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Belts and Hats"
+  },
+  {
+    "question": "What type of hat is commonly worn for formal events?",
+    "answer": "A fedora or a top hat is often worn for formal events.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Belts and Hats"
+  },
+  {
+    "question": "What material is commonly used to make fashionable belts?",
+    "answer": "Leather is a common material used for stylish belts, though fabric and synthetic materials are also used.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Belts and Hats"
+  },
+  {
+    "question": "What function do bags serve in fashion?",
+    "answer": "Bags are used to carry personal items while also serving as a fashion statement or accessory.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Bags and Purses"
+  },
+  {
+    "question": "What types of bags are suitable for formal occasions?",
+    "answer": "Clutches, small handbags, or elegant evening bags are typically used for formal occasions.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Bags and Purses"
+  },
+  {
+    "question": "How do bags complement an outfit?",
+    "answer": "Bags add an element of style and practicality, complementing the overall look of an outfit while serving functional purposes.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Bags and Purses"
+  },
+  {
+    "question": "What is the primary purpose of jewelry in fashion?",
+    "answer": "Jewelry enhances an outfit, adds personal flair, and signifies status or occasion.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Jewelry Basics"
+  },
+  {
+    "question": "Which jewelry pieces are considered essential for a basic collection?",
+    "answer": "Essential pieces include stud earrings, a simple necklace, a watch, and a bracelet.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Jewelry Basics"
+  },
+  {
+    "question": "How does jewelry enhance an evening look?",
+    "answer": "Jewelry adds glamour, catches attention, and completes the overall elegance of an evening outfit.",
+    "course": "Apparel Design Basics",
+    "module": "Accessories",
+    "submodule": "Jewelry Basics"
+  },
+  {
+    "question": "What defines Victorian-era clothing?",
+    "answer": "Victorian-era clothing is characterized by structured garments, tight corsets, long skirts, and elaborate details.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Victorian Era Clothing"
+  },
+  {
+    "question": "What was a common trend in women's clothing during the Victorian era?",
+    "answer": "Women often wore corsets to achieve an hourglass figure, along with full skirts and high-neck blouses.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Victorian Era Clothing"
+  },
+  {
+    "question": "How did Victorian clothing reflect societal norms?",
+    "answer": "Victorian clothing often emphasized modesty, status, and a strict gender divide in fashion.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Victorian Era Clothing"
+  },
+  {
+    "question": "What defined fashion in the Roaring 20s?",
+    "answer": "Fashion in the Roaring 20s was characterized by flapper dresses, bobbed hair, and a move toward more liberated and bold styles.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Roaring 20s Fashion"
+  },
+  {
+    "question": "How did the flapper dress embody the spirit of the 1920s?",
+    "answer": "The flapper dress was a symbol of women's liberation, with its loose fit, shorter length, and emphasis on freedom and movement.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Roaring 20s Fashion"
+  },
+  {
+    "question": "What was the significance of the bobbed haircut in the 1920s?",
+    "answer": "The bobbed haircut was a bold fashion statement that represented women's newfound independence and defiance of traditional gender roles.",
+    "course": "Fashion History and Culture",
+    "module": "Historical Fashion Eras",
+    "submodule": "Roaring 20s Fashion"
+  }
+]
+
